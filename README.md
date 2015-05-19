@@ -17,8 +17,16 @@ mkdir my-new-project && cd $_
 Run yo brix-page, optionally passing an app name
 
 ```bash
-yo brix-page
+yo brix-page my-new-project
 ```
+
+## Develop Project
+
+```bash
+gulp
+```
+
+open `http://localhost:8989/my-new-project.html`
 
 ## Generators
 
