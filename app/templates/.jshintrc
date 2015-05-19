@@ -1,0 +1,9 @@
+{
+    "noyield"   : true,
+    "esnext"    : true,
+    "node"      : true,
+    "asi"       : true,
+    "camelcase" : true,
+    "undef"     : true,
+    "expr"      : true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.1",
+  "dependencies": {
+    "hammer.js": "~2.0.4",
+    "requirejs": "~2.1.17",
+    "brix-loader": "~0.0.10",
+    "fastclick": "~1.0.6",
+    "brix-base": "~0.0.6",
+    "brix-event": "~0.0.9",
+    "brix-bisheng": "~0.1.8"
+  },
+  "devDependencies": {
+    "mockjs": "~0.1.9"
+  }
+}

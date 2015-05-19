@@ -1,0 +1,16 @@
+{
+  "name": "generator-brix-page",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app", "layout", "model", "view"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "taber <taber.huang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+      "yeoman-generator": "^0.17.6"
+  }
+}
