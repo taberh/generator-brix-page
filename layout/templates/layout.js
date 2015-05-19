@@ -1,6 +1,5 @@
 /* global require, document */
 require(
-  'layouts/<%= name %>',
   [
     'brix/loader',
     'brix/event',
